@@ -75,3 +75,5 @@ public class App {
 
 ⚠️ **Academic Integrity Notice**  
 This project was completed as part of **CS 211 at George Mason University**. It is shared here strictly for **portfolio purposes**. Current students must **not copy, reuse, or submit this code** as their own work, as doing so would constitute an **Honor Code violation**.
+
+Copyright &copy; 2025 Mohammed Abdur Rahman. All rights reserved.
